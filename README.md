@@ -1,49 +1,86 @@
-# linux-shell-scripting
-A collection of Linux shell scripting practice programs created to learn automation, command-line operations, variables, conditional statements, loops, functions, and basic system administration tasks.
 # Linux Shell Scripting
 
-## Project Date
+## 📌 Project Overview
 
-2025
+This project contains **Linux shell scripting practice programs** designed to automate common tasks and demonstrate Linux command-line concepts.
 
-## Project Type
+The scripts cover file operations, system information, user-related tasks, conditions, loops, and basic automation.
 
-Practice Project / Learning Project
+## 🐧 Topics Covered
 
-## Overview
-
-This repository contains Linux shell scripting programs created
-to practice Linux commands and basic automation.
-
-## Topics Covered
-
-- Linux Basic Commands
+- Linux commands
+- Bash scripting
 - Variables
-- User Input
-- Conditional Statements
+- Conditional statements
 - Loops
 - Functions
-- File Operations
-- User Management
-- Permissions
-- Cron Jobs
-
-## Example Programs
-
-- Check File Exists
-- Check User Exists
-- Disk Space Monitoring
-- Backup Script
-- File Permission Script
-- User Creation Script
-- Directory Creation Script
-- Basic System Monitoring
-
-## What I Learned
-
-- Writing shell scripts
-- Linux command-line operations
-- File and directory management
-- Linux permissions
+- File operations
+- Directory management
+- Process and system information
 - Basic automation
-- System administration concepts
+
+## 🛠️ Technologies Used
+
+- Linux
+- Bash / Shell Scripting
+- Git & GitHub
+
+## ⚙️ Example Script Workflow
+
+```text id="a6r2qx"
+Shell Script
+    |
+    v
+Read Input
+    |
+    v
+Process Data
+    |
+    v
+Execute Linux Commands
+    |
+    v
+Display Output
+```
+
+## ▶️ Running a Script
+
+Make the script executable:
+
+```bash id="u5j8nb"
+chmod +x script.sh
+```
+
+Run the script:
+
+```bash id="n2k4vf"
+./script.sh
+```
+
+You can also run it using:
+
+```bash id="x8c1pw"
+bash script.sh
+```
+
+## 🎯 What I Learned
+
+- Linux command-line fundamentals
+- Bash scripting
+- Shell variables
+- Conditions and loops
+- File and directory management
+- Script execution
+- Basic task automation
+- Troubleshooting shell scripts
+- Using GitHub to document scripts
+
+## 📂 Project Type
+
+**Linux / Bash / Shell Scripting / Automation / DevOps**
+
+## 👨‍💻 Author
+
+**Shailesh Bidave**
+
+GitHub: [@bidaveeshailesh](https://github.com/bidaveeshailesh)
